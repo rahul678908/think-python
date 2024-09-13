@@ -1,0 +1,5 @@
+addr = tuple('monty@python.org')
+print(addr)
+uname, domain = addr.split('@')
+print(uname)
+print(domain)
