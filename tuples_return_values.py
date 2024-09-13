@@ -1,0 +1,11 @@
+t = divmod(7, 3)
+print(t)
+quot, rem = divmod(7, 3)
+print(quot)
+print(rem)
+def min_max(t):
+    min(4)
+    max(8)
+    return min(t), max(t)
+a = min(t) + max(t)
+print(a)
